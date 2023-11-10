@@ -65,10 +65,14 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+ n</a>
+
 </p>
 
 
-<!-- Agrega estadísticas si lo deseas -->
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Van156&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="devosher01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devosher01&show_icons=true&locale=en&theme=tokyonight" alt="devosher01" /></p>
