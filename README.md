@@ -1,4 +1,7 @@
-### Hi there! My name is Oscar Hernandez Gomez 👋
+<div align="center">
+  <h3 style="font-size: 2em;">Hi there! I'm Oscar Hernandez 👋</h3>
+</div>
+
 
 - 🔭 I’m currently working on new projects.
 - 🌱 I’m currently learning Backend Development (Golang, Postgres, SQL, etc.).
