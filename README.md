@@ -50,14 +50,11 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
-  <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/scrumalliance/scrumalliance-icon.svg" alt="Scrum" width="40" height="40"/>
-  </a>
 </p>
 
 <!-- Agrega estadísticas si lo deseas -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Van156&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="devosher01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Van156&show_icons=true&locale=en&theme=tokyonight" alt="Van156" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devosher01&show_icons=true&locale=en&theme=tokyonight" alt="devosher01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Van156&&theme=tokyonight" alt="devosher01" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devosher01&&theme=tokyonight" alt="devosher01" /></p>
