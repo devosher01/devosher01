@@ -12,8 +12,9 @@
 - ⚡ Fun fact: In my free time, I enjoy going to the gym, cycling, and learning new languages.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" style="width: 80%; height: 80%;" alt="GIF">
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" style="width: 50%; height: 50%;" alt="GIF">
 </div>
+
 
 
 <h3 align="left">Connect with me:</h3>
