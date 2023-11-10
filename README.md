@@ -11,9 +11,12 @@
 - 😄 Pronouns: My pronouns are he/him.
 - ⚡ Fun fact: In my free time, I enjoy going to the gym, cycling, and learning new languages.
 
-<div style="position: relative; padding-bottom: 72%;">
-  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" style="position: absolute; width: 100%; height: 100%;" alt="GIF">
+<div style="display: flex; justify-content: center;">
+  <div style="position: relative; padding-bottom: 72%;">
+    <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" style="position: absolute; width: 80%; height: 80%;" alt="GIF">
+  </div>
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
