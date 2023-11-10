@@ -17,18 +17,47 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  <!-- Agrega otros íconos de las tecnologías en las que eres experto -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+  </a>
+  <a href="https://golang.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/scrumalliance/scrumalliance-icon.svg" alt="Scrum" width="40" height="40"/>
+  </a>
 </p>
 
 <!-- Agrega estadísticas si lo deseas -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Van156&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Van156" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Van156&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="devosher01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Van156&show_icons=true&locale=en&theme=tokyonight" alt="Van156" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Van156&&theme=tokyonight" alt="Van156" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Van156&&theme=tokyonight" alt="devosher01" /></p>
