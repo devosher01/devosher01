@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Backend Development (Golang, Postgres, SQL, etc.).
 - 👯 I’m looking to collaborate on: Interested in collaborating on technology projects related to web and mobile app development.
 - 💬 Ask me about: Flutter and Web Development.
-- 📫 How to reach me: You can reach me at osjahego2004@gmail.com or on LinkedIn at [your profile](https://www.linkedin.com/in/oscar-hernandez-9aab57255/).
+- 📫 How to reach me: You can reach me at osjahego2004@gmail.com or on [LinkedIn](https://www.linkedin.com/in/oscar-hernandez-9aab57255/).
 - 😄 Pronouns: My pronouns are he/him.
 - ⚡ Fun fact: In my free time, I enjoy going to the gym, cycling, and learning new languages.
 
