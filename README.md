@@ -4,10 +4,10 @@
 
 
 - 🔭 I’m currently working on new projects.
-- 🌱 I’m currently learning Backend Development (Golang, Postgres, SQL, etc.).
+- 🌱 I’m currently learning Frontend and Backend Development (Next.js, Postgres, MongoDB, SQL, etc.).
 - 👯 I’m looking to collaborate on: Interested in collaborating on technology projects related to web and mobile app development.
-- 💬 Ask me about: Flutter and Web Development.
-- 📫 How to reach me: You can reach me at osjahego2004@gmail.com or on [LinkedIn](https://www.linkedin.com/in/oscar-hernandez-9aab57255/).
+- 💬 Ask me about: Flutter and React Development.
+- 📫 How to reach me: You can reach me at osjahego2004@gmail.com or on [LinkedIn](https://www.linkedin.com/in/devosher01/).
 - 😄 Pronouns: My pronouns are he/him.
 - ⚡ Fun fact: In my free time, I enjoy going to the gym, cycling, and learning new languages.
 
